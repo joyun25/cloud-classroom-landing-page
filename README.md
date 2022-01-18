@@ -1,6 +1,6 @@
 # 網頁設計切版讀書會
 版型皆出自 [zz41354899](https://github.com/zz41354899)，僅作切版練習
-### 佳欣雲端教室：[Github Pages](https://joyun25.github.io/jia-xin-cloud-classroom/)
+### 佳欣雲端教室：[Github Pages](https://joyun25.github.io/cloud-classroom-landing-page/)
 ![](https://i.imgur.com/yMo3DuB.jpg)
 #### 功能：
 - 簡易的一頁式網頁
